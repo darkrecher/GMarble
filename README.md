@@ -8,13 +8,16 @@ version 0.01 (11/11/2012)
 
 Y'a vraiment pas grand chose. Pas d'affichage graphique, que de la sortie standard. Le moteur de jeu actuel permet de gérer des tuyaux, le déplacement des billes dans ces tuyaux, et leur explosion si elles arrivent à un cul-de-sac. C'est tout.
 
+Pour lancer le jeu : python main.py
+Fonctionnne avec python 2.6.6 ou une 2.x supérieur. Nécessite la librairie pygame.
+
 Liens
 -----
-Repository github : https://github.com/darkrecher/GMarble
-
 Mon blog : http://recher.wordpress.com/
 
 Mon twitter : http://twitter.com/_Recher_
+
+Repository : https://github.com/darkrecher/GMarble
 
 Licence
 -------
